@@ -8,9 +8,9 @@ Seam Carving is a technique that enables resizing images without distorting impo
 
 ## Screenshot
 
-- https://github.com/vashavi-20/Seam-Carving/main_image.jpg
-- https://github.com/vashavi-20/Seam-Carving/seam_carved_1200x1151.jpg
-- https://github.com/vashavi-20/Seam-Carving/seam_carved_1728x720.jpg
+- https://github.com/vashavi-20/Seam-Carving/blob/main/main_image.jpg
+- https://github.com/vashavi-20/Seam-Carving/blob/main/seam_carved_1200x1151.jpg
+- https://github.com/vashavi-20/Seam-Carving/blob/main/seam_carved_1728x720.jpg
 
 ## Installation
 
